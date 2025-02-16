@@ -1,2 +1,2 @@
-print("How are you.?")
-print("How is your  day going.?")
+print("What is your name.?")
+print("where are you living.?")
